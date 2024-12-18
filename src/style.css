@@ -57,8 +57,8 @@ a {
   display: flex;
 }
 .weather-icon {
-  font-size: 44px;
-  margin-top: 22px;
+  width: 88px;
+  height: 88px;
 }
 .weather-temp {
   font-size: 80px;
@@ -66,8 +66,8 @@ a {
   margin-left: 10px;
 }
 .weather-unit {
-  margin-top: 16px;
   font-size: 28px;
+  margin-top: 16px;
 }
 footer {
   border-top: 1px solid #f9f7fe;
